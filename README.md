@@ -46,8 +46,7 @@ The ML model was trained using historical water contamination data and validated
 ```
 / ├── code/  # ESP32 and Raspberry Pi scripts
    ├── data/  # Collected datasets
-   ├── models/  # Trained ML models
-   ├── docs/  # Documentation
+   ├── images/  # Infographs
    ├── hardware/  # Circuit schematics and component details
    ├── README.md  # Project overview
 ```
